@@ -1,0 +1,164 @@
+.Heading {
+    padding-top: 0;
+    font-size: 20;
+    font-style: italic;
+    font: 200;
+    background-color: rgba(0, 0, 0, 0.132);
+    color:lightyellow;
+    cursor: pointer;
+    border-radius: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+.Header {
+    background-color: none;
+    padding-top: 15;
+    background-color: rgba(0, 0, 0, 0.132);
+    border-radius: 2rem;
+    font-size: 20;
+    padding-bottom: 0;
+    color: lightyellow;
+    font: 200;
+    cursor: pointer;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+   
+}
+
+.no {
+    padding-left: 25;
+    padding-right: 50;
+}
+
+.emails {
+    padding-left: 25;
+    padding-right: 50;
+}
+
+.patta {
+    padding-left: 25;
+    padding-right: 50;
+}
+
+
+.Middle_Font {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20;
+    text-decoration: dotted;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(253, 249, 249);
+    background-color: rgba(0, 0, 0, 0.132);
+    background-color: none;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.Booking {
+    
+    font-size: 18;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 2rem;
+    color:black;
+    padding-left: 50px;
+    padding-top: 10px;
+    height: 40;
+    justify-content: space-between;
+    
+    background-color: rgba(250, 250, 250, 0.534);
+}
+
+
+.Home1 {
+    padding-left: 235;
+    padding-right: 50;
+    color: black;
+    text-decoration: dotted;
+}
+
+.Home2 {
+    padding-right: 50;
+}
+
+.Home3 {
+    padding-right: 50;
+}
+
+.Home4 {
+    padding-right: 50;
+}
+
+.Home5 {
+    padding-right: 50;
+}
+
+.Home6 {
+    padding-right: 50;
+}
+
+.Home7 {
+    padding-right: 50;
+}
+
+.Home8 {
+    padding-right: 50;
+}
+
+
+
+body {
+    background-image: url(https://travelfreak.com/wp-content/uploads/2021/12/best-hotel-booking-websites-1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+.name {
+    font-size: 30;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.Log {
+    background-color: rgba(0, 0, 0, 0.132);
+    border: none;
+    color: white;
+    width: 150px;
+    height: 35px;
+    padding-top: 1px;
+    padding-left: 1350px;
+    text-align: right;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    text-align: right;
+  }
+
+  .but1 {
+    padding-left: 5px;
+    padding-right: 35px;
+  }
+
+  .but3 {
+    padding-left: 35px;
+  }
+
+  .but4 {
+    padding-left: 35px;
+  }
+
+  .but5 {
+    padding-left: 35px;
+  }
+
+  .but6 {
+    padding-left: 35px;
+  }
